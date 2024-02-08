@@ -1,0 +1,24 @@
+# ATIVIDADE DESENVOLVIMENTO WEB
+**Explicando o que fizemos na aula 04** 
+aluna: Maria Clara da Silva
+Turma: 3° ano informática
+
+**Passo 1:** Baixamos o github desktop no link <https://desktop.github.com/>.
+
+**Passo 2:** Abrimos o github e criamos um novo repositório com o nome de dw-3, clicamos no botão de cofiguração na area de trabalho para criar um clone. 
+
+**Passo 3:** Abrimos o visual studio na pasta do arquivo dw-3 e adicionamos um novo arquivo (file) chamado *README.md*
+
+**Passo 4:** Dentro do arquivo (file) *READNE.md* adicionamos as seguintes linhas *##NOME DO PROJETO ##Uma descrição* e ativamos o AutoSave. 
+
+**Passo 5:** Escrevemos no github desktop uma pequena descrição sobre o que adicionamos no projeto e executamos os comandos commit to main depois publish branch. 
+*Commit é usado para registrar as alterações do projeto*   
+*Push permite que você envie  os commits para o seu repositório remoto.*
+
+**Passo 6:** Fizemos uma alteração na linha *#Uma descrição* adicionando uma espaço entre a *#* e a palavra *Uma*
+
+**Passo 7:** Entramos no github, escrevemos novamente uma pequena descrição sobre a alteração que fizemos, clicamos novamente em commit to main e por fim em . 
+
+
+
+
